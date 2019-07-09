@@ -1,0 +1,30 @@
+apiVersion: v1
+entries:
+  gbf:
+  - apiVersion: v1
+    created: 2019-07-09T16:51:11.145507-04:00
+    description: A Helm chart for Kubernetes
+    digest: ff5de5fc3c4a7e5210cc2386650970812ce3a21ccc4fa7ea66fc93b7c95007cc
+    name: gbf
+    urls:
+    - gbf-0.1.0.tgz
+    version: 0.1.0
+  gbrm:
+  - apiVersion: v1
+    created: 2019-07-09T16:51:11.145734-04:00
+    description: A Helm chart for Kubernetes
+    digest: b510d17cc012073b79cea4ff4a5b87e72e96802b574e08d64356f6b724c02b18
+    name: gbrm
+    urls:
+    - gbrm-0.1.0.tgz
+    version: 0.1.0
+  gbrs:
+  - apiVersion: v1
+    created: 2019-07-09T16:51:11.14596-04:00
+    description: A Helm chart for Kubernetes
+    digest: 68b6cfad0196939b4f0543854f796ed49820d6d4f2bd4b023af2314c890acbc4
+    name: gbrs
+    urls:
+    - gbrs-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-07-09T16:51:11.145102-04:00
